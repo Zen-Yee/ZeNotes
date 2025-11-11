@@ -5,7 +5,6 @@ ZeNotes is my personal developer knowledge base and snippet vault — a growing 
 ## 📘 Structure
 
 - **/docs/** — topic-based learning notes  
-- **/snippets/** — categorized code examples  
 - **/_sidebar.md** — Docsify navigation  
 
 ## 💡 Purpose
