@@ -1,4 +1,4 @@
-* [Home](README.md)
+* [Home](/)
 * Docs
   * [HTML](docs/HTML/intro.md)
   * [CSS](docs/CSS/intro.md)
