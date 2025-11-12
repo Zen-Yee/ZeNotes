@@ -2,7 +2,7 @@
 
 ## How to use Forms in HTML?
 ```
-<form action=">
+<form action="(url where you want to submit your form data)" method="(The HTTP method to submit the form: get/post)">
   <label for="UserName">Username:</label>
   <br>
   <input type="text" id="UserName" name="UserName" value="John">
