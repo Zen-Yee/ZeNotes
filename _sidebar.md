@@ -1,6 +1,7 @@
 * [Home](/)
 * Docs
   * [HTML](docs/HTML/intro.md)
+    * [HTML Form Guide](docs/HTML/Forms.md)
   * [CSS](docs/CSS/intro.md)
     * [Flexbox Guide](docs/CSS/flexbox-guide.md)
   * [PostGreSQL](docs/PostGreSQL/intro.md)
