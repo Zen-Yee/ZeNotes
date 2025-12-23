@@ -4,6 +4,7 @@
     * [HTML Form Guide](docs/HTML/Forms.md)
   * [CSS](docs/CSS/intro.md)
     * [Flexbox Guide](docs/CSS/flexbox-guide.md)
+  * [Figma](docs/Figma/intro.md)
   * [PostGreSQL](docs/PostGreSQL/intro.md)
   * [UI/UX](docs/UI-UX/intro.md)
     * [Grid System Layout](docs/UI-UX/grid-system-layout.md)
