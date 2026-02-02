@@ -27,22 +27,36 @@
 ## Best Practices for Managing Users, Roles & Permissions
 1. Define clear user roles.
    - **Business owner** to identify & decide this by involving stakeholders from different departments in discussion.
-   - **Developers** can suggest business owner to use **Roles and Permissions Matrix** to maps out roles & permissions:
+   - Tools to aid: **Roles and Permissions Matrix** 
      - Provide clear documentation trail.
      - Good reference for system database design & tables relationship.
 2. Implement the Principle of Least Privilege (PoLP)
    - **Principle of Least Privilege (PoLP)**: 
      - Users should be given **minimum level of access** necassary to perform their duties
      - Reduce risk of unauthorized access and potential data breaches.
-     
 3. Regularly Review and Update Permissions
+   - Conduct periodic audits:
+     - Compare current permissions against the roles and permissions matrix to identify and resolve any inconsistencies.
+   - Adapt to organizational changes: 
+     - New team/project may cause change in access. Adjust over time to avoid a user getting more unnecessary access over time. 
 4. Automate Where Possible
+   - Less prone to error & less time-comsuming than manual monitoring
+     - Tools to aid: **IAM (Identity and Access Management)** 
+   - Respond faster to threats:
+     - Monitor unusual activity in real time.
 5. Establish a Robust Onboarding and Offboarding Process
+   - Onboarding:
+     - Assign role & permissions based on new-joiner's team & responsibilities. 
+     - Define a onboarding checklist - ensure streamline process & nothing is overlooked.  
+   - Offboarding:
+     - When change of roles/leaving organization - revoke/adjust permissions immediately.
 6. Document and Communicate Roles and Permissions
+   - Clear Documentation: 
+     - Include: detailed descriptions of each role, the permissions associated with each role, and the rationale behind these assignments. 
+     - Helpful for current administrators & for audits & training future administrator.
+   - Communicate Policies to the team:
+     - Help set up expectations & foster a culture og security awareness.
 
-## Tools
-
-Roles & Permissions matrix
 
 ## References
 
