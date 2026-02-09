@@ -1,7 +1,6 @@
 # Command Prompt
 Keyboard Shortcut to open Command Prompt:
-
-`Winkey +R` --> Type 'cmd' --> Press `Enter`
+- `Winkey +R` --> Type 'cmd' --> Press `Enter`
 
 ## Files & Folder Management
 |Command|Description|
@@ -36,7 +35,3 @@ Keyboard Shortcut to open Command Prompt:
 |ipconfig|Displays current TCP/IP network configuration values, including IP address, subnet mask, and default gateway|
 |ping|Sends ICMP requests to the target host to check its availability|
 |netstat -an|Shows open ports, their IP addresses and states|
-
-
-## Reference
-
